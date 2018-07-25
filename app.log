@@ -1,0 +1,13 @@
+[INFO] 2018-07-25 22:15:01,926 com.scp.logger.TestLogger.LoggerTest executeMethod - Entering in the execute method
+[ERROR] 2018-07-25 22:15:01,965 com.scp.logger.TestLogger.LoggerTest showError - Path not found
+[WARN] 2018-07-25 22:24:54,643 com.scp.logger.TestLogger.LoggerTest usedCustomLevel - NEED Input as integer
+[INFO] 2018-07-25 22:27:02,591 com.scp.logger.TestLogger.LoggerTest usedCustomLevel - Entering in customLevelMethod
+[INFO] 2018-07-25 22:27:30,709 com.scp.logger.TestLogger.LoggerTest executeMethod - Entering in the execute method
+[ERROR] 2018-07-25 22:27:30,716 com.scp.logger.TestLogger.LoggerTest showError - Path not found
+[INFO] 2018-07-25 22:27:30,717 com.scp.logger.TestLogger.LoggerTest usedCustomLevel - Entering in customLevelMethod
+[INFO] 2018-07-25 22:29:25,910 com.scp.logger.TestLogger.LoggerTest executeMethod - Entering in the execute method
+[ERROR] 2018-07-25 22:29:25,915 com.scp.logger.TestLogger.LoggerTest showError - Path not found
+[INFO] 2018-07-25 22:29:25,916 com.scp.logger.TestLogger.LoggerTest usedCustomLevel - Entering in customLevelMethod
+[INFO] 2018-07-25 22:29:58,389 com.scp.logger.TestLogger.LoggerTest executeMethod - Entering in the execute method
+[ERROR] 2018-07-25 22:29:58,395 com.scp.logger.TestLogger.LoggerTest showError - Path not found
+[INFO] 2018-07-25 22:29:58,395 com.scp.logger.TestLogger.LoggerTest usedCustomLevel - Entering in customLevelMethod

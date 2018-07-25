@@ -1,0 +1,17 @@
+2018-07-25 20:18:25 INFO  LoggerTest:15:com.scp.logger.TestLogger.LoggerTest - Entering in the execute method
+2018-07-25 20:18:25 ERROR LoggerTest:29:com.scp.logger.TestLogger.LoggerTest - Path not found
+2018-07-25 20:20:19 INFO  LoggerTest:15:com.scp.logger.TestLogger.LoggerTest - Entering in the execute method
+2018-07-25 20:20:19 ERROR LoggerTest:29:com.scp.logger.TestLogger.LoggerTest - Path not found
+2018-07-25 20:21:29 INFO  LoggerTest:15:com.scp.logger.TestLogger.LoggerTest - Entering in the execute method
+2018-07-25 20:21:29 ERROR LoggerTest:29:com.scp.logger.TestLogger.LoggerTest - Path not found
+2018-07-25 20:23:09 INFO  LoggerTest:15:com.scp.logger.TestLogger.LoggerTest - Entering in the execute method
+2018-07-25 20:23:10 ERROR LoggerTest:29:com.scp.logger.TestLogger.LoggerTest - Path not found
+2018-07-25 20:25:51 INFO  LoggerTest:15:com.scp.logger.TestLogger.LoggerTest - Entering in the execute method
+2018-07-25 20:25:51 ERROR LoggerTest:29:com.scp.logger.TestLogger.LoggerTest - Path not found
+2018-07-25 22:15:01 INFO  LoggerTest:15:com.scp.logger.TestLogger.LoggerTest - Entering in the execute method
+2018-07-25 22:15:01 ERROR LoggerTest:29:com.scp.logger.TestLogger.LoggerTest - Path not found
+2018-07-25 22:24:54 WARN  LoggerTest:42:com.scp.logger.TestLogger.LoggerTest - NEED Input as integer
+2018-07-25 22:27:02 INFO  LoggerTest:35:com.scp.logger.TestLogger.LoggerTest - Entering in customLevelMethod
+2018-07-25 22:27:30 INFO  LoggerTest:15:com.scp.logger.TestLogger.LoggerTest - Entering in the execute method
+2018-07-25 22:27:30 ERROR LoggerTest:29:com.scp.logger.TestLogger.LoggerTest - Path not found
+2018-07-25 22:27:30 INFO  LoggerTest:35:com.scp.logger.TestLogger.LoggerTest - Entering in customLevelMethod
